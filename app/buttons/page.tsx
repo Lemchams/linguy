@@ -11,7 +11,7 @@ const ButtonsPage = () => {
             <Button variant="danger">Danger</Button>
             <Button variant="dangerOutline">Danger Outiline</Button>
             <Button variant="super">Super</Button>
-            <Button variant="superOutline">Super Outiline</Button>
+            <Button variant="superOutline">Super Outline</Button>
             <Button variant="ghost">Ghost</Button>
             <Button variant="sidebar">Sidebar</Button>
             <Button variant="sidebarOutline">Sidebar Outiline</Button>
